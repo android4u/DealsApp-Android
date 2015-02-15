@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Deals App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hi">Hi There!!</string>
+   
+    <string name="submit">Submit</string>
+   
+    <string name="dealsPage">Current Deals</string>
+	
+    
+    <!--Going to add spinner  -->
+    <string name="selectCountry">Choose a country</string>
+    <string name="selectCity">Choose a city</string>
+    
+    <string name="image">Thumbnail</string>
+   
+</resources>
